@@ -1,0 +1,1 @@
+'ini adalah hari \n Jum\'at'
